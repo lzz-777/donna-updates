@@ -1,20 +1,13 @@
-# Donna — downloads
+# Donna para Windows
 
-## [Baixar Donna-Setup-v1.4.31.exe](https://github.com/lzz-777/donna-updates/releases/download/v1.4.31/Donna-Setup-v1.4.31.exe)
+### [Baixar Donna-Setup-v1.4.32.exe](https://github.com/lzz-777/donna-updates/releases/download/v1.4.32/Donna-Setup-v1.4.32.exe)
 
-Baixe somente o instalador acima, abra e siga as telas em português. Não precisa baixar código-fonte, Python ou arquivos ZIP, nem entrar no GitHub.
+Baixe somente o instalador acima e abra para instalar. Se já usa a Donna, pode usar **Verificar atualização → Atualizar agora** dentro do aplicativo.
 
-Quem já tem a Donna pode usar **Verificar / Atualizar agora** no aplicativo.
+## 1.4.32 — voz neural
 
-### Novidades da 1.4.31
+A síntese usa o novo endereço da Microsoft, corrigindo a recusa HTTP 403 do endereço antigo. Mantém a voz selecionada, o limite de espera e a voz local de reserva; não exige nova chave Groq nem altera a transcrição.
 
-- Corrige a síntese de voz que ficava presa após uma falha do serviço neural.
-- Recuperação automática com voz local, incluída no pacote para instalações novas.
-- Limite de espera e descarte correto de respostas canceladas durante a síntese.
-- Diagnósticos técnicos de síntese e reprodução, sem texto de conversas ou segredos.
+As atualizações preservam configurações e memórias. Os downloads contêm apenas o aplicativo e recursos públicos, sem contas ou credenciais pessoais.
 
-Configurações existentes são preservadas. Atualize os dois computadores pareados e teste uma conversa real por voz.
-
-[Ver versão e notas completas](https://github.com/lzz-777/donna-updates/releases/latest)
-
-Este repositório contém apenas instaladores e atualizações públicas, sem contas, credenciais ou dados pessoais da máquina de build.
+[Detalhes da versão](https://github.com/lzz-777/donna-updates/releases/tag/v1.4.32)
