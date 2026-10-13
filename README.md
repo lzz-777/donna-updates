@@ -1,13 +1,15 @@
 # Donna para Windows
 
-### [Baixar Donna-Setup-v1.4.32.exe](https://github.com/lzz-777/donna-updates/releases/download/v1.4.32/Donna-Setup-v1.4.32.exe)
+### [Baixar Donna-Setup-v1.4.34.exe](https://github.com/lzz-777/donna-updates/releases/download/v1.4.34/Donna-Setup-v1.4.34.exe)
 
-Baixe somente o instalador acima e abra para instalar. Se já usa a Donna, pode usar **Verificar atualização → Atualizar agora** dentro do aplicativo.
+Baixe apenas o instalador acima. Se já usa a Donna, pode usar **Verificar atualização → Atualizar agora** dentro do app.
 
-## 1.4.32 — voz neural
+## 1.4.34 — configurações e dispositivos
 
-A síntese usa o novo endereço da Microsoft, corrigindo a recusa HTTP 403 do endereço antigo. Mantém a voz selecionada, o limite de espera e a voz local de reserva; não exige nova chave Groq nem altera a transcrição.
+Todas as abas das configurações ficam acessíveis em mais de uma linha, inclusive Casa e Sistema. O conteúdo mantém sua rolagem independente.
 
-As atualizações preservam configurações e memórias. Os downloads contêm apenas o aplicativo e recursos públicos, sem contas ou credenciais pessoais.
+A lista conhecida de dispositivos fica salva para exibição quando a nuvem falha. A tela diferencia offline de status não confirmado e não oferece criar outra Donna quando já existe sessão salva. Sem cópia da lista, informa a indisponibilidade. Isso não recupera uma sessão recusada nem permite comandos remotos sem autorização atual.
 
-[Detalhes da versão](https://github.com/lzz-777/donna-updates/releases/tag/v1.4.32)
+Mantém a correção da voz neural da 1.4.32. Atualizações preservam configurações e memórias. Downloads não contêm contas ou credenciais pessoais.
+
+[Detalhes da versão](https://github.com/lzz-777/donna-updates/releases/tag/v1.4.34)
