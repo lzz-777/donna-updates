@@ -1,11 +1,11 @@
 # Donna para Windows
 
-### [Baixar Donna-Setup-v1.4.36.exe](https://github.com/lzz-777/donna-updates/releases/download/v1.4.36/Donna-Setup-v1.4.36.exe)
+### [Baixar Donna-Setup-v1.4.37.exe](https://github.com/lzz-777/donna-updates/releases/download/v1.4.37/Donna-Setup-v1.4.37.exe)
 
-Baixe somente o instalador acima e execute. Se já usa Donna, também pode atualizar pelo próprio aplicativo.
+Baixe somente o instalador acima e execute. Quem já usa Donna também pode atualizar pelo próprio aplicativo.
 
-Na **1.4.36**, a Donna inicia sem falar um resumo do dia espontaneamente e evita confirmações faladas duplicadas ao encaminhar tarefas ao Hermes. O resumo continua disponível a pedido, e lembretes e alarmes permanecem ativos. Inclui a correção da voz neural da 1.4.35.
+A **1.4.37** acrescenta a entrega de imagens e arquivos preparados pelo Hermes no Discord, com retorno à conversa de origem, contexto do pedido e reaproveitamento da confirmação já verificada. Mantém voz neural e inicialização sem resumo espontâneo.
 
-Este repositório distribui os instaladores e atualizações. Os pacotes não incluem contas, chaves, memórias ou configurações pessoais.
+Este repositório distribui somente os instaladores e atualizações, sem contas, chaves, memórias ou configurações pessoais.
 
 [Todas as versões](https://github.com/lzz-777/donna-updates/releases)
