@@ -1,11 +1,18 @@
 # Donna para Windows
 
-### [Baixar Donna-Setup-v1.4.38.exe](https://github.com/lzz-777/donna-updates/releases/download/v1.4.38/Donna-Setup-v1.4.38.exe)
+## [⬇️ Baixar Donna-Setup-v1.4.39.exe](https://github.com/lzz-777/donna-updates/releases/download/v1.4.39/Donna-Setup-v1.4.39.exe)
 
-Baixe somente o instalador acima e execute. Quem já usa Donna também pode atualizar pelo aplicativo.
+Baixe somente o instalador acima. Ele instala ou atualiza a Donna preservando as configurações existentes.
 
-Na **1.4.38**, a Donna retoma a conversa persistente do Hermes após expiração ou reinício, evita repetir confirmações equivalentes durante uma janela curta e oferece confirmação por formulário privado no Discord. Prints simples para o próprio solicitante em DM ficam sem senha.
+### Novidades da 1.4.39
 
-Este repositório distribui instaladores e atualizações, sem contas, chaves, memórias ou configurações pessoais.
+- Menos confirmações repetidas no privado do Discord: uma senha válida libera ações comuns de arquivos/PC por dez minutos no mesmo usuário, canal e dispositivo.
+- Print simples da própria tela e notas/memórias simples dispensam senha. Ações financeiras, destrutivas, credenciais e terceiros continuam protegidos.
+- Bloco adicional de estilo entre amigos para Claude e GPT/Codex, baseado no último modelo informado pela API; nenhuma regra de personalidade anterior foi removida. Para Gemini nada muda.
+- Perguntas do Hermes chegam ao canal de origem: botões no Discord e fala no app. A resposta continua a mesma tarefa/sessão, sem marcar conclusão enquanto espera.
 
-[Todas as versões](https://github.com/lzz-777/donna-updates/releases)
+As chaves e contas são configuradas por cada usuário; o instalador não inclui dados pessoais nem credenciais do desenvolvedor.
+
+Os arquivos Donna-win64.zip e Donna-win64.zip.sha256 são usados pelo atualizador automático. Não é necessário baixá-los manualmente.
+
+[Ver a versão e os downloads](https://github.com/lzz-777/donna-updates/releases/tag/v1.4.39)
