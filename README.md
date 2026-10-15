@@ -1,20 +1,11 @@
 # Donna para Windows
 
-### [Baixar Donna-Setup-v1.4.35.exe](https://github.com/lzz-777/donna-updates/releases/download/v1.4.35/Donna-Setup-v1.4.35.exe)
+### [Baixar Donna-Setup-v1.4.36.exe](https://github.com/lzz-777/donna-updates/releases/download/v1.4.36/Donna-Setup-v1.4.36.exe)
 
-Baixe somente o instalador acima. Quem já usa a Donna também pode abrir **Verificar atualização → Atualizar agora** dentro do aplicativo.
+Baixe somente o instalador acima e execute. Se já usa Donna, também pode atualizar pelo próprio aplicativo.
 
-## 1.4.35 — voz neural corrigida
+Na **1.4.36**, a Donna inicia sem falar um resumo do dia espontaneamente e evita confirmações faladas duplicadas ao encaminhar tarefas ao Hermes. O resumo continua disponível a pedido, e lembretes e alarmes permanecem ativos. Inclui a correção da voz neural da 1.4.35.
 
-Inclui edge-tts 7.3.1 e tenta primeiro o endereço padrão da biblioteca. O endereço alternativo é usado somente após falha, com uma tentativa e limite total de espera. A Piper continua como reserva temporária, sem desativar sua preferência neural.
+Este repositório distribui os instaladores e atualizações. Os pacotes não incluem contas, chaves, memórias ou configurações pessoais.
 
-Vozes em português: **Thalita** (padrão), **Francisca**, **Antônio**, **Raquel** e **Duarte**.
-
-Mantém as configurações, memórias e credenciais da instalação existente. Não é necessário copiar bibliotecas manualmente.
-
-## Qual arquivo baixar?
-
-- **Donna-Setup-v1.4.35.exe**: instalador para uso normal.
-- `Donna-win64.zip` e `.sha256`: usados pela atualização automática.
-
-Este repositório contém somente arquivos públicos de distribuição, sem suas contas, chaves ou memórias.
+[Todas as versões](https://github.com/lzz-777/donna-updates/releases)
