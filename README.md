@@ -1,9 +1,9 @@
 # Donna para Windows
 
-[Baixar Donna 1.4.42](https://github.com/lzz-777/donna-updates/releases/download/v1.4.42/Donna-Setup-v1.4.42.exe)
+[Baixar Donna 1.4.43](https://github.com/lzz-777/donna-updates/releases/download/v1.4.43/Donna-Setup-v1.4.43.exe)
 
 Assistente pessoal com voz, texto, memória, rotinas e integração com Hermes e Discord.
 
-Esta versão ajusta somente o retorno de ações: quando o Hermes informa sucesso, a Donna repassa a confirmação de forma direta, sem tratar a falta de uma segunda observação como falha nem repetir a execução. Erros e validação de anexos continuam preservados. Não altera senha, personalidade ou voz.
+Esta versão remove o prefixo técnico dos resultados e responde de qual computador a Donna está falando pelo nome cadastrado nela, inclusive offline. Não altera senha, personalidade ou voz.
 
-Chaves, memórias e configurações pessoais não são distribuídas neste instalador. Atualize cada computador para receber esta correção.
+Chaves, memórias, nomes de dispositivos e configurações pessoais não são distribuídos neste instalador. Atualize cada computador para receber esta correção.
